@@ -1,0 +1,18 @@
+*{
+     font-family: "Roboto";
+}
+
+#bg{
+    background-image: url(./assets/bgimg.png);
+    
+}
+
+#img1{
+    position: absolute;
+    left: 1%;
+    padding-left: 5%;
+}
+
+#img2{
+    padding: 50px;
+}
